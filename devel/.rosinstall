@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/santi/ros_workspaces/lunar_ws/devel/setup.sh
